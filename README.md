@@ -4,6 +4,7 @@ This respository contains Matlab m-files for probability distributions that are 
 
 In this repository, the distributions that are represented are: 
 Asymmetric Laplace                   (asymmlaplace*.m)      <br />
+Bernoulli                            (bernoulli*.m)   SUPP  <br />
 Beta                                 (beta*.m)        SUPP  <br />
 Binominal                            (bino*.m)        SUPP  <br />
 Chi                                  (chi*.m)         SUPP  <br />
