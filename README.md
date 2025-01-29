@@ -1,6 +1,6 @@
 # distributions
 
-Matlab m-files for probability distributions that are not included in standard Matlab release packages. M-files are also included to supplement functions associated with distributions that *are* included in standard release packages. For each distribution, functions are available that compute the pdf, cdf, mean, variance, statistical moments, random samples, among others. 
+This respository contians Matlab m-files for probability distributions that are not included in standard Matlab release packages. M-files are also included to supplement functions associated with distributions that *are* included in standard release packages. For each distribution, functions are available that compute the pdf, cdf, mean, variance, statistical moments, random samples, among others. 
 
 In this repository, the distributions that are represented are: 
 Asymmetric Laplace                   (asymmlaplace*.m)
