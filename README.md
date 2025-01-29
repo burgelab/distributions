@@ -3,10 +3,10 @@
 This respository contians Matlab m-files for probability distributions that are not included in standard Matlab release packages. M-files are also included to supplement functions associated with distributions that *are* included in standard release packages. For each distribution, functions are available that compute the pdf, cdf, mean, variance, statistical moments, random samples, among others. 
 
 In this repository, the distributions that are represented are: 
-Asymmetric Laplace                   (asymmlaplace*.m)
-Beta                                 (beta*.m)        SUPP
-Binominal                            (bino*.m)        SUPP
-Chi-Squared                          (chi2*.m)        SUPP
+Asymmetric Laplace                   (asymmlaplace*.m)      <br />
+Beta                                 (beta*.m)        SUPP  <br />
+Binominal                            (bino*.m)        SUPP  <br />
+Chi-Squared                          (chi2*.m)        SUPP  <br />
 Chi-Squared Scaled                   (chi2s*.m)
 Erlang                               (erlang*.m)
 Exponential                          (exp*.m)         SUPP
