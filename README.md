@@ -6,6 +6,7 @@ In this repository, the distributions that are represented are:
 Asymmetric Laplace                   (asymmlaplace*.m)      <br />
 Beta                                 (beta*.m)        SUPP  <br />
 Binominal                            (bino*.m)        SUPP  <br />
+Chi                                  (chi*.m)         SUPP  <br />
 Chi-Squared                          (chi2*.m)        SUPP  <br />
 Chi-Squared Scaled                   (chi2s*.m)             <br />
 Erlang                               (erlang*.m)            <br />
